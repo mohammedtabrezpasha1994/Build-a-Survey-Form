@@ -1,2 +1,2 @@
 # Build-a-Survey-Form
-Build a Survey Form Project - FreeCodeCamp 
+Build a Survey Form Project - freeCodeCamp 
